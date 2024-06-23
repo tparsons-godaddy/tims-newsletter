@@ -10,6 +10,7 @@
 		"astro": "astro"
 	},
 	"dependencies": {
+		"@ux/button": "^2400.0.1",
 		"astro": "^2.5.5"
 	},
 	"devDependencies": {
