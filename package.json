@@ -10,8 +10,9 @@
 		"astro": "astro"
 	},
 	"dependencies": {
+		"@astrojs/netlify": "^5.3.2",
 		"@ux/button": "^2400.0.1",
-		"astro": "^2.5.5"
+		"astro": "^4.11.1"
 	},
 	"devDependencies": {
 		"@types/markdown-it": "^12.2.3",
